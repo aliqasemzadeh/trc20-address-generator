@@ -3,5 +3,10 @@
 
 1-Installation
 `npm install`
+
 2-Get Address
 `node ./index.js`
+
+
+### I want to show how you can make TRC20 payment system.
+
